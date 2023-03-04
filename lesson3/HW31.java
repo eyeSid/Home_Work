@@ -8,11 +8,9 @@ public class HW31 {
 
         if (a == b) {
             System.out.println("a == b" );
-        }
-        if (a < b) {
+        } else if (a < b) {
             System.out.println("a < b");
-        }
-        if (a > b) {
+        } else if (a > b) {
             System.out.println("a > b");
         }
     }

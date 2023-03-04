@@ -9,13 +9,19 @@ public class HW43 {
     public static void main(String[] args) {
         int a ;
         System.out.println("числа кратные 4:");
-        for (a = 1; a <= 60 ; a = a + 1) {
-            if (a >= 40) {
-                if (a % 4 == 0) {
-                    System.out.print(" " + a);
-                }
-            }
+//        for (a = 1; a <= 60 ; a = a + 1) {
+//            if (a >= 40) {
+//                if (a % 4 == 0) {
+//                    System.out.print(" " + a);
+//                }
+//            }
+//        }
+        System.out.println(" ");
 
+            for (int b = 40; b <= 60 && b >= 40 ; b=b+4) {
+                System.out.println(" " + b);
+
+            }
 
 //        System.out.println(" ");
 //        System.out.println("var.2:");
@@ -27,6 +33,5 @@ public class HW43 {
 //                    System.out.print(" " + b);
 //                }
 //            }
-        }
     }
 }
