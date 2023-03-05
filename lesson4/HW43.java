@@ -1,4 +1,4 @@
-package lesson3;
+package lesson4;
 
 public class HW43 {
     //    Необходимо вывести все числа кратные 4 между числами 40 и 60 включительно.

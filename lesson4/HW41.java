@@ -1,4 +1,4 @@
-package lesson3;
+package lesson4;
 
 public class HW41 {
     public static void main(String[] args) {
