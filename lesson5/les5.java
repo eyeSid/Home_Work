@@ -70,9 +70,9 @@ public class les5 {
         }
         System.out.println(Arrays.toString(arr5));
 
+
 //         - двумерный массив первая скобка [] - строки, вторая - положение в строке
 //        -         int [][] arr6 = { {11, 12, 13}, {21, 22, 23}, {31, 32, 33} };
-
 
         int [][] arr6 = {
                 {11, 12, 13},
@@ -92,6 +92,8 @@ public class les5 {
             }            
         }
         System.out.print("\n");
+
+
 
 
     }
