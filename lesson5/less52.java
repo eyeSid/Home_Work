@@ -46,7 +46,7 @@ public class less52 {
             int[] d = c[l];
             for (int m = 0; m < d.length; m++) {
                 System.out.println(d[m]);
-                System.out.println(c[l][m]);
+  //              System.out.println(c[l][m]);
             }
         }
 
