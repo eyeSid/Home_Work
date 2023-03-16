@@ -20,7 +20,7 @@ public class less6 {
 //       для этого используем - int value2 = Integer.MAX_VALUE; - присвоение
 //       значения переменной и Integer.MIN_VALUE - присвоение min значения переменной
 
-        int[] a2 = {10, 2 , 3, 4, 8, 9};
+        int[] a2 = {}; // {10, 2 , 3, 4, 8, 9};
 
         int value2 = Integer.MAX_VALUE; // - присвоение максимального значения переменной
         for (int i = 0; i < a2.length; i++) {
@@ -28,6 +28,9 @@ public class less6 {
                 value2 = a2[i];
             }
         }
+        if (a2.length == 0) {
+            System.out.println("массив пуст");
+        } else
         System.out.println("наименьшее число массива а2 = " + value2);
         System.out.println("\n");
 
