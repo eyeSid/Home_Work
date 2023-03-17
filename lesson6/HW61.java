@@ -38,7 +38,7 @@ public class HW61 {
             f += array[i];
         }
         System.out.println("ЗАДАЧА №4\nнеобходимо вывести среднее арифметическое всех значений массива");
-        System.out.println("среднее арифметическое: " + f/ array.length);
+        System.out.println("среднее арифметическое: " + f * 1.0 / array.length);
 
         //Задача №5 необходимо вывести сумму элементов массива.
 
