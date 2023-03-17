@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b059b1ea-6569-42a6-af4e-c15de68cf9e3" name="Changes" comment="лекция 61 +">
+      <change afterPath="$PROJECT_DIR$/lesson6/less62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/less62_circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/less62.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/less62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/les5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/les5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/HW61.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/HW61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/less6.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/less6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/hren_vam/lesson5/les5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hren_vam/lesson5/les5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,22 +68,9 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.less62">
+  <component name="RunManager" selected="Application.less62_circle">
     <configuration name="HW61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson6.HW61" />
-      <module name="hren_vam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.HW62" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.less6" />
+    <configuration name="less61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.less61" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="less62_circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.less62_circle" />
+      <module name="hren_vam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.less62_circle" />
         <item itemvalue="Application.less62" />
-        <item itemvalue="Application.HW62" />
-        <item itemvalue="Application.les5" />
-        <item itemvalue="Application.less6" />
         <item itemvalue="Application.HW61" />
+        <item itemvalue="Application.les5" />
+        <item itemvalue="Application.less61" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678978995272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="лекция 61 +">
+      <created>1679053248513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679053248513</updated>
+    </task>
+    <task id="LOCAL-00005" summary="лекция 61 +">
+      <created>1679053342504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679053342504</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
