@@ -2,7 +2,7 @@ package lesson6;
 
 import java.util.Arrays;
 
-public class less62 {
+public class less61 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
         int[] arr2 = arr;
