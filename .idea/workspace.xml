@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b059b1ea-6569-42a6-af4e-c15de68cf9e3" name="Changes" comment="13.03 03">
-      <change afterPath="$PROJECT_DIR$/lesson6/HW61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/less62.java" afterDir="false" />
+    <list default="true" id="b059b1ea-6569-42a6-af4e-c15de68cf9e3" name="Changes" comment="лекция 61 +">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/less52.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/less52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/less6.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/less6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/less62.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/less62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hren_vam/lesson5/les5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hren_vam/lesson5/les5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +31,13 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -58,14 +57,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HW61">
+}</component>
+  <component name="RunManager" selected="Application.less62">
     <configuration name="HW61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson6.HW61" />
       <module name="hren_vam" />
@@ -79,8 +78,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.less52" />
+    <configuration name="HW62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.HW62" />
+      <module name="hren_vam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="les5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.les5" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
@@ -105,13 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less62 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less62" />
-      <module name="hren_vam" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="less62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson6.less62" />
       <module name="hren_vam" />
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW61" />
-        <item itemvalue="Application.less6" />
         <item itemvalue="Application.less62" />
-        <item itemvalue="Application.less62 (1)" />
-        <item itemvalue="Application.less52" />
+        <item itemvalue="Application.HW62" />
+        <item itemvalue="Application.les5" />
+        <item itemvalue="Application.less6" />
+        <item itemvalue="Application.HW61" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678701100022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW61">
+      <created>1678894748510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894748510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="домашка 62 зад 3">
+      <created>1678978995272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978995272</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +186,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.03" />
+    <MESSAGE value="HW61" />
+    <MESSAGE value="домашка 62 зад 3" />
+    <MESSAGE value="лекция 61 +" />
+    <option name="LAST_COMMIT_MESSAGE" value="лекция 61 +" />
   </component>
 </project>

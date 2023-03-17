@@ -83,7 +83,7 @@ public class les5 {
         System.out.print("масив arr6\n");
         System.out.println(Arrays.toString(arr6));
         System.out.println(Arrays.deepToString(arr6));
-        System.out.println( arr6[0][2]);
+        System.out.println("значение подмассива 1х3 - " + arr6[0][2]);
         for (int m = 0; m < arr6.length; m++) {
             System.out.println(arr6[m]);
         }
