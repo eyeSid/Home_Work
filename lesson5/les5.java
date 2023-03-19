@@ -14,7 +14,7 @@ public class les5 {
 
             if (i == 3 || i == 5) {
                 continue;
-                 }
+            }
             if (i == 8) {
                 break;
             }
@@ -27,13 +27,10 @@ public class les5 {
                 System.out.println("j=" + j + " k=" + k);
             }
         }
-
-
+//--------------------------------------------------------------------
 //             Новая тема
-
-
-        System.out.print("\n");
-        System.out.print(" МАССИВЫ \n");
+//--------------------------------------------------------------------
+        System.out.print("\nНовая тема\nМАССИВЫ\n\n");
 
         int [] array = {10, 100, 1000, 10000, 100000};
         System.out.println(array[0]); // - печать первого (0) элемента из массива
@@ -44,8 +41,8 @@ public class les5 {
         System.out.print("\n");
 
         int [] arr2 = {22, 202, 2002, 20002, 200002};
-        int [] arr3 = arr2;  // -  ссылки массивов arr3 и arr2 ведут на один адрес в памяти
-        arr3[0] = 33;   // - присвоенние нулевому элементу значения 33
+        int [] arr3 = arr2;  // - ссылки массивов arr3 и arr2 ведут на один адрес в памяти
+        arr3[0] = 33;   // - присвоение нулевому элементу значения 33
         System.out.println(arr2[0]);
         System.out.println("адрес массива arr2 - " + arr2);
         System.out.println("адрес массива arr3 - " + arr3);
@@ -69,20 +66,21 @@ public class les5 {
             arr5[n] = p;
         }
         System.out.println(Arrays.toString(arr5));
-
-
-//         - двумерный массив первая скобка [] - строки, вторая - положение в строке
-//        -         int [][] arr6 = { {11, 12, 13}, {21, 22, 23}, {31, 32, 33} };
-
+        System.out.print("\n");
+/*
+--------------------------------------------------------------------
+  - двумерный массив первая скобка [] - строки, вторая - положение в строке
+  - int [][] arr6 = { {11, 12, 13}, {21, 22, 23}, {31, 32, 33} };
+*/
         int [][] arr6 = {
                 {11, 12, 13},
                 {21, 22, 23},
                 {31, 32, 33}
         };
-        System.out.print("масив arr5\n");
+        System.out.print("масив arr6\n");
         System.out.println(Arrays.toString(arr6));
         System.out.println(Arrays.deepToString(arr6));
-        System.out.println( arr6[0][2]);
+        System.out.println("значение подмассива 1х3 - " + arr6[0][2]);
         for (int m = 0; m < arr6.length; m++) {
             System.out.println(arr6[m]);
         }
@@ -92,9 +90,5 @@ public class les5 {
             }            
         }
         System.out.print("\n");
-
-
-
-
     }
 }
