@@ -1,6 +1,6 @@
 package lesson7;
 
-public class HW71_getName {
+public class HW711_getName {
     String name;
     int age;
     String gender;
