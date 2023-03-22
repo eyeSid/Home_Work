@@ -1,4 +1,4 @@
-package lesson7;
+package lesson7.less;
 
 public class Less7_Person {   // - создали новый тип Less7_Person
 // внутри класса -- Поля и Методы

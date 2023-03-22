@@ -1,4 +1,4 @@
-package lesson7;
+package lesson7.less;
 
 public class less7 {
     // переместили МЕТОДЫ sum и sumOfThree в соседний класс less7_Utils

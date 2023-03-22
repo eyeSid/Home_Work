@@ -1,4 +1,4 @@
-package lesson7;
+package lesson7.hw;
 
 public class HW711_getName {
     String name;

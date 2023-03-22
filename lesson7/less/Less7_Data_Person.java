@@ -1,4 +1,4 @@
-package lesson7;
+package lesson7.less;
 
 public class Less7_Data_Person {
     public static void main(String[] args) { // - args - это параметр
