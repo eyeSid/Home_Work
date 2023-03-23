@@ -4,10 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b059b1ea-6569-42a6-af4e-c15de68cf9e3" name="Changes" comment="лекция 61 +">
-      <change afterPath="$PROJECT_DIR$/lesson7/HW71_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/HW71_getName.java" afterDir="false" />
+    <list default="true" id="b059b1ea-6569-42a6-af4e-c15de68cf9e3" name="Changes" comment="work">
+      <change afterPath="$PROJECT_DIR$/lesson7/HW/DataEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/HW/DataSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/HW/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/hw/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Less/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Less/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Less/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dump/Mane.java" beforeDir="false" afterPath="$PROJECT_DIR$/dump/Mane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/hw/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/HW/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/hw/HW711_Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/hw/HW711_getName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/hw/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/HW/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/less/Less7_Data_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/Less7_Data_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/less/Less7_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/Less7_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/less/less7.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/less7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/less/less7_Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/less7_Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +45,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -45,9 +58,6 @@
         <option name="url" value="https://github.com/eyeSid/Home_Work.git" />
       </UrlAndAccount>
     </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/lesson7/HW71_Person.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,13 +77,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW71_Person">
-    <configuration name="HW61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.HW61" />
+  <component name="RunManager" selected="Application.DataSalary">
+    <configuration name="DataEmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.HW.DataEmp" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson6.*" />
+          <option name="PATTERN" value="lesson7.HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW71_Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.HW71_Person" />
+    <configuration name="DataSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.HW.DataSalary" />
+      <module name="hren_vam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW711_Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.HW711_Person" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Less7_Data_Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.Less7_Data_Person" />
+    <configuration name="HW712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.HW712" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
@@ -107,25 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.less62" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.HW.Person" />
       <module name="hren_vam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="less62_circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.less62_circle" />
-      <module name="hren_vam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson6.*" />
+          <option name="PATTERN" value="lesson7.HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW71_Person" />
-        <item itemvalue="Application.Less7_Data_Person" />
-        <item itemvalue="Application.less62_circle" />
-        <item itemvalue="Application.less62" />
-        <item itemvalue="Application.HW61" />
+        <item itemvalue="Application.DataSalary" />
+        <item itemvalue="Application.DataEmp" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.HW712" />
+        <item itemvalue="Application.HW711_Person" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679063217221</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="лекция 61 +">
+      <created>1679321116550</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679321116550</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

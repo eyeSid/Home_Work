@@ -1,22 +1,21 @@
-package lesson7.hw;
-
-public class HW711_Person {
+package lesson7.HW;
 //Задача №1
 //Необходимо создать класс Person с полями: имя, возраст, пол.
 // Класс должен иметь метод - getName, метод возвращает имя с префиксом “Mr. ”
 // если пол указан как мужской и префикс “Mrs. ” если женский.
+public class Person {
     public static void main(String[] args) {
-        HW711_getName bill = new HW711_getName();
+        Data bill = new Data();
         bill.name = "Bill";
         bill.age = 45;
         bill.gender = "man";
 
-        HW711_getName sisil = new HW711_getName();
+        Data sisil = new Data();
         sisil.name = "Sisil";
         sisil.age = 5;
         sisil.gender = "woman";
 
-        HW711_getName suzi = new HW711_getName();
+        Data suzi = new Data();
         suzi.name = "Suzi";
         suzi.age = 52;
         suzi.gender = "woman";

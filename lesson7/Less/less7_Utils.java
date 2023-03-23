@@ -1,4 +1,4 @@
-package lesson7.less;
+package lesson7.Less;
 
 public class less7_Utils {
     void printSum(int first, int second) {

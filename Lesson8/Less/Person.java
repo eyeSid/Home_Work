@@ -1,4 +1,4 @@
-package Lesson8;
+package Lesson8.Less;
 
 public class Person {
     String name;
