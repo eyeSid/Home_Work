@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b059b1ea-6569-42a6-af4e-c15de68cf9e3" name="Changes" comment="work">
-      <change afterPath="$PROJECT_DIR$/lesson7/HW/DataEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/HW/DataSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/HW/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/hw/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Less/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Less/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Less/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dump/Mane.java" beforeDir="false" afterPath="$PROJECT_DIR$/dump/Mane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/hw/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/HW/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/hw/HW711_Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/hw/HW711_getName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/hw/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/HW/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/less/Less7_Data_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/Less7_Data_Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/less/Less7_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/Less7_Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/less/less7.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/less7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/less/less7_Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/Less/less7_Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +29,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -211,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679321116550</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="work">
+      <created>1679478199844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679478199844</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +222,7 @@
     <MESSAGE value="HW61" />
     <MESSAGE value="домашка 62 зад 3" />
     <MESSAGE value="лекция 61 +" />
-    <option name="LAST_COMMIT_MESSAGE" value="лекция 61 +" />
+    <MESSAGE value="work" />
+    <option name="LAST_COMMIT_MESSAGE" value="work" />
   </component>
 </project>
