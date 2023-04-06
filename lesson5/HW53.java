@@ -24,9 +24,9 @@ public class HW53 {
             for (int k = i - 1; k >= 0; k--) {
                 System.out.print(k + " ");
             }
-            for (int l = 1; l < i; l++) {
-                 System.out.print(l + " ");
-            }
+//            for (int l = 1; l < i; l++) {
+//                 System.out.print(l + " ");
+//            }
                 System.out.println();
             }
         }
