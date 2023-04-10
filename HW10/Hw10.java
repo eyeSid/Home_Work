@@ -48,6 +48,8 @@ public class Hw10 {
         trouble = trouble + firstTriple + secondTriple + thirdTriple;
         }
         return trouble;
+
+        //expected:<[ttlheoiscstk]> but was:<[nullttlheoisc]>
     }
 
 
